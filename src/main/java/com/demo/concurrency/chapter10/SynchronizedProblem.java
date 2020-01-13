@@ -1,4 +1,4 @@
-package com.wangwenjun.concurrency.chapter10;
+package com.demo.concurrency.chapter10;
 
 /***************************************
  * @author:Alex Wang

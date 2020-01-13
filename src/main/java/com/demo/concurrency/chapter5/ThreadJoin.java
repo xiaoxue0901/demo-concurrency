@@ -1,4 +1,4 @@
-package com.wangwenjun.concurrency.chapter5;
+package com.demo.concurrency.chapter5;
 
 import java.util.Optional;
 import java.util.stream.IntStream;

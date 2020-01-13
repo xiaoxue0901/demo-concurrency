@@ -1,5 +1,5 @@
 
-package com.wangwenjun.concurrency.chapter9;
+package com.demo.concurrency.chapter9;
 
 import java.util.stream.Stream;
 

@@ -1,4 +1,4 @@
-package com.wangwenjun.concurrency.chapter3;
+package com.demo.concurrency.chapter3;
 
 import java.util.Arrays;
 
